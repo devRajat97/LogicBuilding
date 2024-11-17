@@ -24,7 +24,15 @@ Top javascript questions asked in interview
  19. Write a javascript function that reverses the order of words in a sentence without using the built-in reverse() method.
  20. Implement a javascript function that flattens a nested array into a single-dimensional array.
 
+conmmon js interview questtion 
 
+=> find the second larget element of the arry or string
+=> [1,2,[3,4,5,[2,4,8,[8,9,8,6]]]] bring element in one arry
+=> input : [{id : 1, userName : "mahesh"}, {id : 2 , userName : "akshay"}] outuput : [{id : 1 , value : mahesh}, {id : 2 , value : "akshay"}]
+=> input abbcdac outup:3(there are a,b and c is repeat)
+=> remove vovlas example -input: javascipt outuput jvscrpt
+=> find the duplicates from the arrry or string 
+=> 
 
 𝟭-𝟭𝟬: 𝗕𝗮𝘀𝗶𝗰𝘀 𝗼𝗳 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁
 

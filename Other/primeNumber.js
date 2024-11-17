@@ -1,16 +1,14 @@
+// prime number up to 50
 
-// prime number up to 50 
 
-let number = 50
-let i, j;
 
-for(i = 2; i<=50; i++){
-  for( j=2 ; j< i; j++){
-   if(i%j == 0){
-    break
-   }
+for (let i = 2; i <= 50; i++) {
+  let isPrime = true;
+  for (let j = 2; j <= i - 1; j++) {
+    if (i%j == 0) {
+      isPrime = false;
+      break;
+    }
   }
-  if(j == i ){
-    console.log(i)
-  }
+  if(isPrime) console.log(i)
 }
