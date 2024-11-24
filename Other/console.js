@@ -26,3 +26,7 @@
 // console.log(!undefined);
 // console.log(!null)
 // console.log(![]);  
+// console.log("hello" || false)
+// console.log(false && "hello")
+// console.log("" || 0 || false || null || 1 || 'hello world' || "js")
+// console.log("five" * 2)
