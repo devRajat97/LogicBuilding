@@ -1,19 +1,23 @@
-// Program to find longest word in a given sentence ?
 
-const FindLongestWord = (sentence) => {
-  let largest = "";
+// 1. Program to find longest word in a given sentence ?
+
+const LongestWord = (sentence) => {
   let current = "";
-  for (let i = 0; i <= sentence.length; i++) {
-    if (sentence.length === i || sentence[i] == " ") {
-      if (current.length >= largest.length) {
-        largest = current;
+  let max = "";
+
+  for (let i = 0; i < sentence.length; i++) {
+    current += sentence[i];
+    
+    if(sentence[i] == " " || i == sentence.length-1){
+      if(current.length > max.length){
+        max = current
+        current = ""
       }
-      current = "";
-    } else {
-      current += sentence[i];
     }
+   
   }
-  console.log(largest);
+  console.log(max)
+
 };
 
-FindLongestWord("I love programming in JavaScript");
+LongestWord("hello world of javascript");
