@@ -11,8 +11,8 @@ const LongestWord = (sentence) => {
     if(sentence[i] == " " || i == sentence.length-1){
       if(current.length > max.length){
         max = current
-        current = ""
       }
+      current = ""
     }
    
   }
@@ -20,4 +20,4 @@ const LongestWord = (sentence) => {
 
 };
 
-LongestWord("hello world of javascript");
+LongestWord("hello world of javascript how are you?");
