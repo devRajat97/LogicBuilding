@@ -7,7 +7,6 @@ const secondLargestword = (string) => {
   for (let i = 0; i < string.length; i++) {
     current += string[i]
     if (string[i] == " " || i == string.length - 1) {
-      console.log(current,"out side of the condition")
       if (current > largest) {
         largest = current;
         current = "";
@@ -19,6 +18,7 @@ const secondLargestword = (string) => {
       }
     }
   }
+  console.log(secondLargest)
 };
 
 secondLargestword("hello world of javascript oaiseooasdijfaoiwejfoajsdj hii");
