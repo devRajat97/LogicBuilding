@@ -32,7 +32,7 @@ conmmon js interview questtion
 => input abbcdac outup:3(there are a,b and c is repeat)
 => remove vovlas example -input: javascipt outuput jvscrpt
 => find the duplicates from the arrry or string 
-=> 
+=> [{user : "rajat", type : 1 , location : "indore"}][{user : "sanjil", type : 2 , location : "ujjain"} ]
 
 𝟭-𝟭𝟬: 𝗕𝗮𝘀𝗶𝗰𝘀 𝗼𝗳 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁
 
