@@ -1,60 +1,21 @@
 Basic Operations and Concepts:
-Find the Maximum and Minimum Element
 
-Write a function to find the largest and smallest numbers in an array.
-Reverse an Array
-
-Reverse the array elements in place.
-Sum of All Elements in an Array
-
-Calculate the sum of all elements in the array.
-Check if Array is Sorted
-
-Determine if the given array is sorted in ascending order.
-Count Occurrences of an Element
-
-Count how many times a given element appears in the array.
-Searching and Matching:
-Find an Element in an Array
-
-Implement linear search to find a target value in an array.
-Find the First Duplicate
-
-Return the first duplicate element from the array.
-Check for Pair with a Given Sum
-
-Find if there exists a pair of elements in the array that sum up to a specific number.
-Find the Missing Number
-
-Given an array of 
-𝑛
-−
-1
-n−1 integers in the range 1 to 
-𝑛
-n, find the missing number.
-Find All Unique Elements
-
-Return all unique elements from the array.
-Frequency and Counting:
-Find the Most Frequent Element
-Determine the element that occurs most frequently in the array.
-Remove Duplicates
-Remove duplicates from the array and return the unique elements.
-Count Even and Odd Numbers
-Count the number of even and odd numbers in the array.
-Move Zeroes to End
-Move all zeroes in the array to the end, keeping the relative order of other elements.
-Find Elements Appearing More Than Once
-Return all elements that appear more than once in the array.
-Mathematical Operations:
-Find the Second Largest Element
-Without sorting the array, find the second largest number.
-Calculate Product of All Elements Except Self
-Return an array where each element is the product of all other elements (without division).
-Find the Maximum Difference Between Two Elements
-Ensure the larger element comes after the smaller one.
-Find the Intersection of Two Arrays
-Return the common elements between two arrays.
-Find the Union of Two Arrays
-Return all distinct elements from two arrays.
+=>Write a function to find the largest and smallest numbers in an array.
+=>Reverse the array elements in place.
+=>Sum of All Elements in an Array
+=>Determine if the given array is sorted in ascending order.
+=>Count how many times a given element appears in the array.
+=>Find an Element in an Array
+=>Return the first duplicate element from the array.
+=>Find if there exists a pair of elements in the array that sum up to a specific number.
+=>find the missing number
+=>Return all unique elements from the array.
+=>Determine the element that occurs most frequently in the array.
+=>Count the number of even and odd numbers in the array.
+=>Move all zeroes in the array to the end, keeping the relative order of other elements.
+=>Return all elements that appear more than once in the array.
+=>Find the Second Largest Element
+=>Calculate Product of All Elements Except Self
+=>Find the Maximum Difference Between Two Elements
+=>Find the Intersection of Two Arrays
+=>Find the Union of Two Arrays
